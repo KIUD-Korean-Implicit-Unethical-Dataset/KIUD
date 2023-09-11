@@ -1,8 +1,8 @@
 # KIUD
 
-Kosbi( https://github.com/naver-ai/korean-safety-benchmarks ) 
-KOLD ( https://github.com/boychaboy/kold ) 
-욕설 감지 데이터셋 ( https://github.com/2runo/Curse-detection-data )  
+- Kosbi( https://github.com/naver-ai/korean-safety-benchmarks ) 
+- KOLD ( https://github.com/boychaboy/kold ) 
+- 욕설 감지 데이터셋 ( https://github.com/2runo/Curse-detection-data )  
 을 활용하여 구축한 한국어 암시적 비윤리 데이터셋입니다. 
 
 
